@@ -1,0 +1,4 @@
+- 👋 Olá, me chamo Diego Xavier Sousa, ou @xsdiego aqui no GitHub
+- 👀 Me interesso por CSS, Javascript, jQuery, Ajax, PHP, SEO, MySQL
+- 🌱 Atualmente aprendendo AngularJS e ReactJS, além de estar realizando uma pós-graduação em Segurança Digital
+- 📫 Contatos pelo e-mail contato@diegoxavier.net.br
